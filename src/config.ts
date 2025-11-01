@@ -19,7 +19,7 @@ export interface SiteConfig {
 export const siteConfig: SiteConfig = {
   site: "https://shusite.xyz/", // your site url
   title: "Shu's Blog",
-  slogan: "Working on some little projects",
+  slogan: "Alles zum Thema Computer und IT",
   description: " ",
   social: {
     github: "https://github.com/shu440", // leave empty if you don't want to show the github
