@@ -27,7 +27,7 @@ tags: ["windows"]
      irm https://get.activated.win | iex
      ```
 3. Drücken sie 1 um Windows zu aktivieren,  
-   drücken sie 2 um Microsoft Office zu aktivieren  
+   Drücken sie 2 um Microsoft Office zu aktivieren  
    (Dafür muss Office bereits auf dem Gerät installiert sein)
 
 4. **Du hast es geschafft**
